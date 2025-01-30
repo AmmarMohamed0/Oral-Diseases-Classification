@@ -25,4 +25,5 @@ Oral-Diseases-Classification is a deep learning project designed to classify ora
 
 **Pre-Trained Model**: ResNet18
 
-**Link of Dateset** https://www.kaggle.com/datasets/salmansajid05/oral-diseases
+
+### **Link of Dateset** https://www.kaggle.com/datasets/salmansajid05/oral-diseases
